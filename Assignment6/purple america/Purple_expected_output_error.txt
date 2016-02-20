@@ -1,0 +1,223 @@
+This program draws a visualization of
+data from a given file. Enter 
+- the 2 letter abbreviation for each state
+- USA for all of the US by state, or 
+- USA-county for all of the US by county. 
+
+What state would you like to see? Washington
+File not found. Try again. 
+What state would you like to see? WA
+For what year (1960 to 2012) do you want to see data: 2011
+File not found. Try again. 
+For what year (1960 to 2012) do you want to see data: 2012
+
+Displaying 2012 US Presidential Election data
+  Red   = Romney
+  Blue  = Obama
+  Green = Other
+
+Displaying Adams data
+  Red   = 3171
+  Blue  = 1540
+  Green = 111
+
+Displaying Asotin data
+  Red   = 5654
+  Blue  = 4003
+  Green = 315
+
+Displaying Benton data
+  Red   = 49461
+  Blue  = 28145
+  Green = 2611
+
+Displaying Chelan data
+  Red   = 18402
+  Blue  = 13112
+  Green = 974
+
+Displaying Clallam data
+  Red   = 18437
+  Blue  = 18580
+  Green = 1368
+
+Displaying Clark data
+  Red   = 92951
+  Blue  = 93382
+  Green = 5843
+
+Displaying Columbia data
+  Red   = 1568
+  Blue  = 645
+  Green = 67
+
+Displaying Cowlitz data
+  Red   = 20746
+  Blue  = 22726
+  Green = 1540
+
+Displaying Douglas data
+  Red   = 9425
+  Blue  = 5166
+  Green = 469
+
+Displaying Ferry data
+  Red   = 1995
+  Blue  = 1294
+  Green = 199
+
+Displaying Franklin data
+  Red   = 13748
+  Blue  = 8398
+  Green = 618
+
+Displaying Garfield data
+  Red   = 913
+  Blue  = 336
+  Green = 32
+
+Displaying Grant data
+  Red   = 17852
+  Blue  = 8950
+  Green = 1027
+
+Displaying Grays Harbor data
+  Red   = 11914
+  Blue  = 15960
+  Green = 1073
+
+Displaying Island data
+  Red   = 19605
+  Blue  = 21478
+  Green = 1289
+
+Displaying Island data
+  Red   = 19605
+  Blue  = 21478
+  Green = 1289
+
+Displaying Jefferson data
+  Red   = 6405
+  Blue  = 12739
+  Green = 817
+
+Displaying King data
+  Red   = 275700
+  Blue  = 668004
+  Green = 28317
+
+Displaying Kitsap data
+  Red   = 52846
+  Blue  = 67277
+  Green = 3978
+
+Displaying Kittitas data
+  Red   = 9782
+  Blue  = 7949
+  Green = 562
+
+Displaying Klickitat data
+  Red   = 5316
+  Blue  = 4598
+  Green = 477
+
+Displaying Lewis data
+  Red   = 20452
+  Blue  = 12664
+  Green = 1204
+
+Displaying Lincoln data
+  Red   = 4063
+  Blue  = 1673
+  Green = 175
+
+Displaying Mason data
+  Red   = 12761
+  Blue  = 14764
+  Green = 964
+
+Displaying Okanogan data
+  Red   = 9221
+  Blue  = 7108
+  Green = 674
+
+Displaying Pacific data
+  Red   = 4499
+  Blue  = 5711
+  Green = 426
+
+Displaying Pend Oreille data
+  Red   = 3952
+  Blue  = 2508
+  Green = 289
+
+Displaying Pierce data
+  Red   = 148467
+  Blue  = 186430
+  Green = 10035
+
+Displaying San Juan data
+  Red   = 3111
+  Blue  = 7125
+  Green = 456
+
+Displaying Skagit data
+  Red   = 25071
+  Blue  = 28688
+  Green = 1938
+
+Displaying Skamania data
+  Red   = 2687
+  Blue  = 2628
+  Green = 217
+
+Displaying Snohomish data
+  Red   = 133016
+  Blue  = 188516
+  Green = 10436
+
+Displaying Spokane data
+  Red   = 115285
+  Blue  = 102295
+  Green = 8174
+
+Displaying Stevens data
+  Red   = 13691
+  Blue  = 7762
+  Green = 1047
+
+Displaying Thurston data
+  Red   = 49287
+  Blue  = 74037
+  Green = 4416
+
+Displaying Wahkiakum data
+  Red   = 1119
+  Blue  = 1094
+  Green = 100
+
+Displaying Walla Walla data
+  Red   = 14648
+  Blue  = 9768
+  Green = 882
+
+Displaying Whatcom data
+  Red   = 42703
+  Blue  = 57089
+  Green = 3996
+
+Displaying Whatcom data
+  Red   = 42703
+  Blue  = 57089
+  Green = 3996
+
+Displaying Whitman data
+  Red   = 8507
+  Blue  = 8037
+  Green = 726
+
+Displaying Yakima data
+  Red   = 42239
+  Blue  = 33217
+  Green = 2050
+Do you want to draw something else? n

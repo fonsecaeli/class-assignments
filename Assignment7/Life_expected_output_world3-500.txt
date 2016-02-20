@@ -1,0 +1,6 @@
+This program runs Conway's Game of Life
+Input file name? world3.txt
+Output file name? world3-500_out.txt
+Number of frames to run the simulation: 500
+Time between steps (ms): 20
+Simulation successful!

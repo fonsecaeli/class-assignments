@@ -1,0 +1,10 @@
+This program draws a visualization of
+data from a given file. Enter 
+- the 2 letter abbreviation for each state
+- USA for all of the US by state, or 
+- USA-county for all of the US by county. 
+
+What state would you like to see? Michigan
+File not found. Try again. 
+What state would you like to see? MI
+Do you want to draw something else? n
