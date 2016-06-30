@@ -1,0 +1,55 @@
+Eli Fonseca 
+Assignemnt 9 MileStone 1
+9:53 PM 1/31/2016
+
+
+Test Cases: 
+ConstructorTestStandard: Create student using new Student("Eli", "Fonseca", 11, 8) then use getter 
+methods to check to see if all the field match what was entered through the constructor
+ConstructorTestEdge: Create 4 students each with 3 valid paramates and with one illegal one.
+null for the names and 0 or -1 for the grade level or number of classes.  If they all throw an illegal 
+argument exception then returns true.
+getFirstNameTestStandard: Create a new student with first name = "Eli" then call the getFirstName()
+on that student, return true if the return value is equal to "Eli"
+getFirstnameTestEdge: Create a student with first name = "" the call getFirstName() on that student, 
+return true if the return value is equal to ""
+getLastNameTestStandard: Create a student with last name = "Fonseca" then call getLastName()
+and return true if the return value is equal to "Fonseca"
+getLastNameTestEdge: Create a student with last name = "" then call getLastName() and return 
+true if return value is equal to ""
+getFullNameTestStandard: Create a student with name = "Eli" and last name = "Fonseca" then call getFullName()
+and return true if return value is equal to "Eli Fonseca"
+getFullNameTestStandard: Create a student with name = "" and last name = "" then call getFullName() 
+and return true if the return value is equal to " "
+getGradeTestStandard: Create a student with grade = 11 and call getGrade() and return true if the
+return value equals to 11
+getGradeTestStandard: Create a student with grade = 500 and call getGrade() and return true if the
+return value is equal t 500
+getCoursesTestStandard: Create a standard student (8 classes) then use addCourses(name, period) to add 
+Math during 1st period and Science during 4th period.  Then check that the array retured from calling 
+getCourses() is equal to an array of 8 elements with "Math" in the 0th index and Science in the 3rd index
+with the rest of the elements equal to "Free"
+getCoursesTestEdge: Create a standard student and then try to add a course with name = null
+and with periodNum = 0 or some value greater than the maxnumber of classes.  Then check to make sure the 
+array returned from getCourses() is a array filled only with "Free"
+getCourseCountTestStandard: Create a student add three classes using addCourse() then check to make
+sure the return value from getCourseCount() is equal to 3
+getCourseCountTestEdge: Create a student and don’t add any classes.  then check that the return value from getCourseCount()
+is equal to 0
+setGradeTestStandard: Create a student with grade = 8 and use the setGrade() to set the grade to 9
+then check the return value of getGrade() is equal to 9
+setGradeTestStandard: Create a student and then try to set the grade to -1 if this throws and IllegalArgumenteExcetion then 
+return true
+addCourseTestStandard: Create a new student then try to add Math at period 1.  If the array returned from 
+getCourses() does not equal an array with the first element = "Math" and the rest = "Free" return false
+addCourseTestEdge: Create a new student who is taking 3 classes.  Then add Math Science and English as periods 1, 2 ,3 respectivley
+then try to add a course to 1st period even though you already have a class there.  If addCourse("someClass", 3) returns false 
+and the return from getCourses() is an array ["Math", "Science", "English"] then return true
+toStringTestStandard: Create a new Student ( new Student(Eli, Fonseca, 11, 8) ) then see if the return value from toString() 
+is equal to "11: Eli Fonseca ["Free", "Free", "Free", "Free, "Free", "Free", "Free", "Free"]
+toStringTestEdge: Create a student ( new Student("", "", 50, 8) ) then test to see if the return from toString 
+equals "50: ["Free", "Free", "Free", "Free, "Free", "Free", "Free", "Free"]
+equalsTestStandard: Create 3 of the same students and then change student3's grade to 10, using setGrade() 
+then return true only if student1.equals(studnet2) and !studnet1.equals(student3)\
+toStringTestEdge: create a student and then create a random String.  return true only if the student does not equal
+the String

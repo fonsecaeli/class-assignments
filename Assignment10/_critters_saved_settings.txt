@@ -1,0 +1,16 @@
+#CSE 142 Critters saved settings
+#Thu Mar 03 09:44:14 PST 2016
+Height=50
+EliLion=false
+Number\ of\ each\ critter=25
+Network\ features=false
+ChenLion=true
+Vulture=false
+Bird=false
+Lion=true
+Debug\ output=false
+Ant=false
+GabeLion=true
+Hippo=false
+Width=60
+Stone=false
